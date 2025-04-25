@@ -1,4 +1,4 @@
-# time-to-go
+# @triquetrx/time-to-go
 
 **Description**: A lightweight utility to calculate time differences, add or subtract days, months, or years, and determine relative time (e.g., "X months/days/hours/seconds/milliseconds ago" or "X months/days/hours/seconds/milliseconds to go").
 
@@ -10,7 +10,7 @@
         - `addDays`: Params (Date, numberOfDays)
         - `addMonths`: Params (Date, numberOfMonths)
         - `addYears`:  Params (Date, numberOfYears)
-    - Substracting Days, Months or Years
+    - Subtracting Days, Months or Years
         - `subtractDays`: Params (Date, number of days)
         - `subtractMonths`: Params (Date, number of months)
         - `subtractYears`:  Params (Date, number of years)
