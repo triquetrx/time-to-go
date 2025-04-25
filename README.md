@@ -32,9 +32,9 @@ npm install time-to-go
 
 ## Usage
 
-**Example usage of TimeDiffAI**
+**Example usage of TimeDiff**
 ```typescript
-import { TimeDiff } from 'time-to-go';
+import { TimeDiff } from '@triquetrx/time-to-go';
 
 const timeDiff = new TimeDiff();
 const diff = timeDiff.getDateTimeDiff(new Date(2023, 9, 15), new Date(2020, 5, 10));
@@ -42,7 +42,7 @@ const newDate = timeToGo.addDays(new Date(), 5);
 ```
 **Example usage of diff from given date to current Date**
 ```typescript
-import { TimeDiff } from 'time-to-go';
+import { TimeDiff } from '@triquetrx/time-to-go';
 
 const timeDiff = new TimeDiff();
 const diff2 = timeDiff.getDateTimeDiff(new Date("04/25/2025"));
@@ -50,7 +50,7 @@ const diff2 = timeDiff.getDateTimeDiff(new Date("04/25/2025"));
 
 **Example usage of Adding, Substracting days, months and years**
 ```typescript
-import { TimeDiff } from 'time-to-go';
+import { TimeDiff } from '@triquetrx/time-to-go';
 
 const timeDiff = new TimeDiff();
 
