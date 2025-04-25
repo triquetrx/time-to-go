@@ -22,12 +22,11 @@
     "ts-node": "^10.9.2"
   },
   "keywords": [
-    "time difference",
-    "add time",
-    "add date",
-    "date difference",
-    "substract time",
-    "substract date"
+    "add",
+    "time",
+    "date",
+    "difference",
+    "substract"
   ],
   "bugs": {
     "url": "https://github.com/triquetrx/time-to-go/issues"
