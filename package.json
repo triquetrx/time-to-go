@@ -4,7 +4,7 @@
   "description": "Calculate date time difference, add and substract days/months/years",
   "main": "index.ts",
   "scripts": {
-    "start": "nodemon --exec ts-node index.ts",
+    "start": "ts-node index.ts",
     "test": "jest"
   },
   "author": "Zaid Khan",
