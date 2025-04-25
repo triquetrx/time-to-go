@@ -1,7 +1,7 @@
 {
-  "name": "timer-calc",
+  "name": "time-to-go",
   "version": "1.0.0",
-  "description": "Calculate date time",
+  "description": "Calculate date time difference, add and substract days/months/years",
   "main": "index.ts",
   "scripts": {
     "start": "nodemon --exec ts-node index.ts",
