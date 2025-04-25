@@ -20,5 +20,17 @@
     "npx": "^10.2.2",
     "ts-jest": "^29.3.2",
     "ts-node": "^10.9.2"
-  }
+  },
+  "keywords": [
+    "time difference",
+    "add time",
+    "add date",
+    "date difference",
+    "substract time",
+    "substract date"
+  ],
+  "bugs": {
+    "url": "https://github.com/triquetrx/time-to-go/issues"
+  },
+  "homepage": "https://github.com/triquetrx/time-to-go#readme"
 }
